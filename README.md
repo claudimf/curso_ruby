@@ -13,6 +13,13 @@ Bem-vindo(a) ao curso de ruby.
     </ul>
 </details>
 
+<details>
+    <summary>Strings</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Strings/01_variáveis.rb">Variáveis</a></li>
+    </ul>
+</details>
+
 # Rodar sem instalar o rub
 
 **:warning: Atenção:**  É necessário que os desenvolvedores usem o Docker no seu ambiente de desenvolvimento.
@@ -32,7 +39,7 @@ Após instalar o docker e docker-compose, estando na pasta raiz do projeto, exec
 Para acessar o container da aplicação, execute:
 
 ```sh
-docker-compose run --rm ruby bash
+docker-compose run --rm ruby_app bash
 ```
 
 Para derrubar a instância do docker novamente, execute:
@@ -51,19 +58,19 @@ docker rmi -f $(docker images -f "dangling=true" -q)
 Acesse o container da aplicação executando:
 
 ```sh
-docker-compose run --rm ruby bash
+docker-compose run --rm ruby_app bash
 ```
 
 Acessar o irb(interactive Ruby):
 
 ```sh
-docker-compose run --rm ruby irb
+docker-compose run --rm ruby_app irb
 ```
 
 Depois escolha um dos scripts para rodar, por exemplo:
 
 ```sh
-docker-compose run --rm ruby ruby exercicios/01_IO_class/01_output.rb
+docker-compose run --rm ruby_app ruby exercicios/01_IO_class/01_output.rb
 ```
 ### Permissões de arquivos ###
 Quando se cria arquivos dentro de um contâiner Docker eles irão pertencer ao contâiner, para mudar a permissão rode o seguinte comando:
@@ -77,3 +84,4 @@ sudo chown -R $USER:$USER .
 [1° Ruby - Roadmap](https://github.com/evertonlopesc/Ruby-Roadmap)  
 [2° Padrões de Projeto em Ruby](https://refactoring.guru/pt-br/design-patterns/ruby)  
 [3° Ruby - Roadmap](https://github.com/evertonlopesc/Ruby-Roadmap)  
+[4° Rubular - a Ruby regular expression editor](https://rubular.com/)  

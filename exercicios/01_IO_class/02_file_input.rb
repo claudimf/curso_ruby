@@ -1,4 +1,4 @@
-# docker-compose run --rm ruby ruby exercicios/01_IO_class/02_file_input.rb
+# docker-compose run --rm ruby_app ruby exercicios/01_IO_class/02_file_input.rb
 puts "\n>>>>>IO.binread \n\n"
 puts "\nLeitura do arquivo completo: \n"
 puts IO.binread("exercicios/01_IO_class/files/example_01.txt")

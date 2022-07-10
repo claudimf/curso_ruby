@@ -1,4 +1,4 @@
-# docker-compose run --rm ruby ruby exercicios/01_IO_class/03_user_input.rb
+# docker-compose run --rm ruby_app ruby exercicios/01_IO_class/03_user_input.rb
 puts "\n>>>>>gets \n\n"
 puts "\ngets.inspect: \n"
 puts(gets.inspect)

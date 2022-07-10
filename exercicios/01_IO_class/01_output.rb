@@ -1,4 +1,4 @@
-# docker-compose run --rm ruby ruby exercicios/01_IO_class/01_output.rb
+# docker-compose run --rm ruby_app ruby exercicios/01_IO_class/01_output.rb
 print "Hello World \n"
 puts "Hello World \n"
 p 'Hello World'
