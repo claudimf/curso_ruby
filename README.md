@@ -25,6 +25,62 @@ Bem-vindo(a) ao curso de ruby.
     </ul>
 </details>
 
+<details>
+    <summary>Operators</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/03_Operators/01_Operators.rb">Operators</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Iterators</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/04_Iterators/01_Iterators.rb">Iterators</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Blocks, Procs e Lambda</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/05_Blocks_Procs_Lambda/01_Example.rb">Blocks, Procs e Lambda</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Loops</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/06_Loops/01_Loops.rb">Loops</a></li>
+    </ul>
+</details>
+
+<details>
+    <summary>Functions</summary>
+</details>
+
+<details>
+    <summary>Errors</summary>
+</details>
+
+<details>
+    <summary>Modules</summary>
+</details>
+
+<details>
+    <summary>Classes</summary>
+</details>
+
+<details>
+    <summary>Inheritance</summary>
+</details>
+
+<details>
+    <summary>Variables</summary>
+</details>
+
+<details>
+    <summary>design-patterns</summary>
+</details>
+
 # Rodar sem instalar o rub
 
 **:warning: Atenção:**  É necessário que os desenvolvedores usem o Docker no seu ambiente de desenvolvimento.
