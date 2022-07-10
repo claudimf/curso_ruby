@@ -22,5 +22,5 @@ puts("estaQuente.class.superclass.superclass -> #{estaQuente.class.superclass.su
 puts("estaQuente.class.superclass.superclass.superclass -> #{estaQuente.class.superclass.superclass.superclass}")
 
 # Referências:
-# https://ruby-doc.org/core-3.1.2/TrueClass.html
-# https://ruby-doc.org/core-3.1.2/FalseClass.html
+# https://ruby-doc.org/core/TrueClass.html
+# https://ruby-doc.org/core/FalseClass.html

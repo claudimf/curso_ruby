@@ -14,9 +14,14 @@ Bem-vindo(a) ao curso de ruby.
 </details>
 
 <details>
-    <summary>Strings</summary>
+    <summary>Data Types</summary>
     <ul>
-        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Strings/01_variáveis.rb">Variáveis</a></li>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Data_Types/01_Strings.rb">Strings</a></li>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Data_Types/02_Booleans.rb">Booleans</a></li>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Data_Types/03_Symbols.rb">Symbols</a></li>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Data_Types/04_Numbers.rb">Numbers</a></li>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Data_Types/05_Arrays.rb">Arrays</a></li>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/02_Data_Types/06_Hashes.rb">Hashes</a></li>
     </ul>
 </details>
 

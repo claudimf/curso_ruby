@@ -43,3 +43,4 @@ puts example_var.match('(minha).()(frase)')[3]
 # Referências:
 # https://ruby-doc.org/core-2.5.0/String.html
 # https://rubular.com/
+# https://learnbyexample.gitbooks.io/ruby-scripting/content/chapters/String_methods.html
