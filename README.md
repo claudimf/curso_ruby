@@ -55,6 +55,9 @@ Bem-vindo(a) ao curso de ruby.
 
 <details>
     <summary>Functions</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/07_Functions/01_Functions.rb">Functions</a></li>
+    </ul>
 </details>
 
 <details>
@@ -81,7 +84,7 @@ Bem-vindo(a) ao curso de ruby.
     <summary>design-patterns</summary>
 </details>
 
-# Rodar sem instalar o rub
+# Utilizando o Ruby no Docker
 
 **:warning: Atenção:**  É necessário que os desenvolvedores usem o Docker no seu ambiente de desenvolvimento.
 

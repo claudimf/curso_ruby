@@ -9,3 +9,4 @@ print "Hello World 1\n", "Hello World 2\n", "Hello World 3\n"
 # Referências:
 # https://ruby-doc.com/core/IO.html#method-i-puts
 # https://flexiple.com/puts-vs-p-vs-print-ruby/
+# https://learn.co/lessons/puts-print-and-return-readme
