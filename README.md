@@ -62,6 +62,9 @@ Bem-vindo(a) ao curso de ruby.
 
 <details>
     <summary>Errors</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/08_Errors/01_Example.rb">Errors</a></li>
+    </ul>
 </details>
 
 <details>
