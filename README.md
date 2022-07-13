@@ -69,6 +69,9 @@ Bem-vindo(a) ao curso de ruby.
 
 <details>
     <summary>Modules</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/09_Modules/01_Modules.rb">Modules</a></li>
+    </ul>
 </details>
 
 <details>
