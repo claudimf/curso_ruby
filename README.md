@@ -83,6 +83,9 @@ Bem-vindo(a) ao curso de ruby.
 
 <details>
     <summary>Inheritance</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/11_Inheritance/01_Inheritance.rb">Inheritance</a></li>
+    </ul>
 </details>
 
 <details>
