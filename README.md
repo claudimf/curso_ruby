@@ -76,6 +76,9 @@ Bem-vindo(a) ao curso de ruby.
 
 <details>
     <summary>Classes</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/10_Classes/01_Classes.rb">Classes</a></li>
+    </ul>
 </details>
 
 <details>
