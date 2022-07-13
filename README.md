@@ -90,10 +90,13 @@ Bem-vindo(a) ao curso de ruby.
 
 <details>
     <summary>Variables</summary>
+    <ul>
+        <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/11_Variables/01_Variables.rb">Variables</a></li>
+    </ul>
 </details>
 
 <details>
-    <summary>design-patterns</summary>
+    <summary>Design-Patterns</summary>
 </details>
 
 # Utilizando o Ruby no Docker
