@@ -96,13 +96,19 @@ Bem-vindo(a) ao curso de ruby.
 </details>
 
 <details>
+    <summary>Conditionals</summary>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/12_Conditionals/Conditionals.rb">Conditionals</a></li>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/12_Conditionals/Comparison.rb">Comparison</a></li>
+</details>
+
+<details>
     <summary>Design-Patterns</summary>
-    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/12_Design_Patterns/singleton.rb">Design-Patterns</a></li>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/13_Design_Patterns/singleton.rb">Design-Patterns</a></li>
 </details>
 
 <details>
     <summary>Extras</summary>
-    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/Extras/Interface.rb">Extras</a></li>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/Extras/Interface.md">Interface</a></li>
 </details>
 
 

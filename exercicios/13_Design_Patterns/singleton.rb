@@ -1,4 +1,4 @@
-# docker-compose run --rm ruby_app ruby exercicios/12_Design_Patterns/singleton.rb
+# docker-compose run --rm ruby_app ruby exercicios/13_Design_Patterns/singleton.rb
 
 require 'singleton'
 class Shop
@@ -16,6 +16,7 @@ rescue => error
     puts("error.class.superclass.superclass.superclass.superclass  -> #{error.class.superclass.superclass.superclass.superclass}")
 end
 
+# Referências:
 # https://refactoring.guru/pt-br/design-patterns/ruby
 # https://github.com/davidgf/design-patterns-in-ruby
 # https://refactoring.guru/pt-br/design-patterns/singleton/ruby/example
