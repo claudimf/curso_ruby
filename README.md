@@ -105,6 +105,23 @@ Bem-vindo(a) ao curso de ruby.
     <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/Extras/Interface.rb">Extras</a></li>
 </details>
 
+
+# Desafios
+
+<details>
+    <summary>Ruby</summary>
+    <ul>
+        <li>Desenvolva uma calculadora do tipo "TwoTermSolver"(que resolve dois termos/números) utilizando módulos onde a mesma possa validar o que o usuário envia como parâmetro(se número ou não) para as operações de soma, subtração, divisão e multiplicação</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Design-Patterns</summary>
+    <ul>
+        <li>Utilizando 1 padrão de projeto pelo menos, crie um caso de uso e comente o porquê de sua aplicação</li>
+    </ul>
+</details>
+
 # Utilizando o Ruby no Docker
 
 **:warning: Atenção:**  É necessário que os desenvolvedores usem o Docker no seu ambiente de desenvolvimento.
