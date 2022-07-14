@@ -97,6 +97,12 @@ Bem-vindo(a) ao curso de ruby.
 
 <details>
     <summary>Design-Patterns</summary>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/12_Design_Patterns/singleton.rb">Design-Patterns</a></li>
+</details>
+
+<details>
+    <summary>Extras</summary>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/Extras/Interface.rb">Extras</a></li>
 </details>
 
 # Utilizando o Ruby no Docker
