@@ -109,6 +109,8 @@ Bem-vindo(a) ao curso de ruby.
 <details>
     <summary>Extras</summary>
     <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/Extras/Interface.md">Interface</a></li>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/Extras/Metaprogramming.md">Metaprogramming</a></li>
+    <li><a href="https://github.com/claudimf/curso_ruby/blob/main/exercicios/Extras/generate_csv.rb">Generate CSV</a></li>
 </details>
 
 
@@ -193,3 +195,5 @@ sudo chown -R $USER:$USER .
 [2° Padrões de Projeto em Ruby](https://refactoring.guru/pt-br/design-patterns/ruby)  
 [3° Ruby - Roadmap](https://github.com/evertonlopesc/Ruby-Roadmap)  
 [4° Rubular - a Ruby regular expression editor](https://rubular.com/)  
+[5° Ruby-Toolbox](https://www.ruby-toolbox.com/)  
+[6° RUBYGEMS common vulnerabilities and exposures](https://guides.rubygems.org/cve/)  
